@@ -38,7 +38,7 @@
 petar
 
 ~ uptime
-up 24 years, 12 months, 7 days, 0 reboot
+up 25 years
 
 <h3 align="center">🎯 Contact</h3> <p align="center"> <a href="https://twitter.com/petardimict"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://linkedin.com/in/petardimic"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:petar@dimic.tech"><img src="https://img.shields.io/badge/Email-%23ff7ee0?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 <h3 align="center">📈 GitHub Activity</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=idosysstuff&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=00000000" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=idosysstuff&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
