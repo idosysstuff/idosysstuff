@@ -1,16 +1,35 @@
-## Hi there 👋
+# Petar Dimic 👋
 
-<!--
-**idosysstuff/idosysstuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Waste no more time arguing about what a good man should be. Be one." — Marcus Aurelius
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+* 📍 **Location:** Serbia 🇷🇸
+* 🚀 **Focus:** High-performance backend systems and cross-platform mobile development.
+* 🛠 **Currently building:** Websites, native Android/iOS apps, and plugins for various games.
+
+---
+
+### 🛠 My Tech Stack
+
+**Backend & Runtimes**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=Bun&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Platforms & Tools**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+---
+
+### ⚡ Fun Fact
+**Btw, I use Arch for my workstation, Alpine for Docker, Debian for production servers, Arch for my home servers, and Gentoo dual-booted.** 🐧 *(Yes, I actually enjoy the compile time)*
+
+---
+
+[![GitHub followers](https://img.shields.io/github/followers/idosysstuff?style=social)](https://github.com/idosysstuff)
