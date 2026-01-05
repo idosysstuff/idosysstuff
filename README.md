@@ -27,16 +27,6 @@
 
 ---
 
-### Github
-
-![](https://github-readme-stats.vercel.app/api?username=idosysstuff&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=idosysstuff&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=idosysstuff&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-contributor-stats.vercel.app/api?username=idosysstuff&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ### Fun Fact
 **Btw, I use Arch for my workstation, Alpine for Docker, Debian for production servers, Arch for my home servers, and Gentoo dual-booted.** 🐧 *(Yes, I actually enjoy the compile time)*
 
